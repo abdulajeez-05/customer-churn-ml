@@ -16,6 +16,7 @@ Built ML models to predict customer churn.
 - Importance of recall in churn prediction
 - Threshold tuning
 - Feature importance analysis
+- Model comparison
 
 ## Result
 Logistic Regression performed best with high recall.
